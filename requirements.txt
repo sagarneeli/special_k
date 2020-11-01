@@ -1,0 +1,2 @@
+scikit-learn==0.23.2
+special-k==0.1.1
